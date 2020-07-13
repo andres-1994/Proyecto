@@ -17,6 +17,6 @@ Pasos para iniciar la pagina web:
   <li>Escribir en el mismo la ruta donde esta el la carpeta del proyecto React</li>
   <li>Importar los node_modules del proyecto react con npm install</li>
   <li>Arrancar el proyecto React con npm start</li>
-  <li>Automaticamente se visualizara en en navegador la pagina web realizada para este proyecto</li>
+  <li>Automaticamente se visualizara en el navegador la pagina web realizada para este proyecto</li>
 </ol> 
 
