@@ -9,3 +9,11 @@ El proyecto utiliza las siguientes tecnologias:
 <li>Html5</li> 
 <li>CSS3</li>  
 <li>Bootstrap</li>
+
+Pasos para iniciar la pagina web:
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol> 
+
