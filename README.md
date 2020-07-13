@@ -10,7 +10,7 @@ El proyecto utiliza las siguientes tecnologias:
 <li>CSS3</li>  
 <li>Bootstrap</li>
 
-Pasos para iniciar la pagina web:
+Pasos para iniciar la pagina web: 🔧
 
 <ol>
   <li>Primero abrir la linea de comandos o powershell</li>
