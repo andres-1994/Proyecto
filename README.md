@@ -11,9 +11,12 @@ El proyecto utiliza las siguientes tecnologias:
 <li>Bootstrap</li>
 
 Pasos para iniciar la pagina web:
+
 <ol>
-  <li>Coffee</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Primero abrir la linea de comandos o powershell</li>
+  <li>Escribir en el mismo la ruta donde esta el la carpeta del proyecto React</li>
+  <li>Importar los node_modules del proyecto react con npm install</li>
+  <li>Arrancar el proyecto Rect con npm start</li>
+  <li>Automaticamente se visualizara en en navegador la pagina web realizada para este proyecto</li>
 </ol> 
 
