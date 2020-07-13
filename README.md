@@ -15,7 +15,7 @@ _El proyecto es una una pagina web realizada para el Estudio Juridico Gross Brow
 🛠️ El proyecto utiliza las siguientes herramientas:
 
 <li>Editor de Codigo Sublime Text3</li> 
-<li>PowerShell</li> 
+<li>Interfaz de consola PowerShell</li> 
 <li>Navegador Web</li>  
 <li>Npm</li>
 <li>Yarn</li>
