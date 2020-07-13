@@ -1,5 +1,5 @@
 # Proyecto Senpai Front End Developer 2020
-## <li>Proyecto React Diego Benitez</li>
+## <i>Proyecto React Diego Benitez</i>
 
 El proyecto es una una pagina web realizada para el Estudio Juridico Gross Brown
 
