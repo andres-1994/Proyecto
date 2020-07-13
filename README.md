@@ -3,7 +3,7 @@
 
 El proyecto es una una pagina web realizada para el Estudio Juridico Gross Brown
 
-El proyecto utiliza las siguientes tecnologias:
+🛠️ El proyecto utiliza las siguientes tecnologias:
 
 <li>React.js</li> 
 <li>Html5</li> 
